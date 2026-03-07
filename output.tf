@@ -1,3 +1,4 @@
+
 output "k3s_master_ips" {
   description = "Public IPs of all master nodes"
   value       = aws_instance.k3s_master[*].public_ip
