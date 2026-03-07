@@ -1,5 +1,4 @@
 
-
 ###  ---  Default Template  ---  ###
 region         = "us-west-2"
 ami_id         = "ami-0345dd2cef523536e"
